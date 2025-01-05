@@ -2,16 +2,16 @@
 
 ## Instalar pyhton 
 
-`sudo apt install python3`
-`python3 --version`
+1. `sudo apt install python3`
+1. `python3 --version`
 
 ## Turtle
 
 Para importar turtle sigue los siguientes pasos
 Instalar tkinter en Ubuntu
 
-`sudo apt update`
-`sudo apt install python3-tk`
+1. `sudo apt update`
+1. `sudo apt install python3-tk`
 
 ## Ejecutar
 
